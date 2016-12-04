@@ -1,6 +1,6 @@
 ## Synopsis
 
-Library to manager Mongodb Database.
+Library to manager Mongodb Database with PHP.
 
 ## Contributors
 
